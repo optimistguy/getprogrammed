@@ -11,7 +11,9 @@ published: true
 
 ###### Note : There are a lots of free resources and I bet I will grew over times. I am not even uses all of these resources. So just pick a few. Learn it, go with it!
 
-##### Other Lists Of Resources:
+&nbsp;
+
+### Other Lists Of Resources:
 
 * [awesome](https://github.com/sindresorhus/awesome){: target="_blank"} (Really Good! )
 * [Free Programming Books](https://github.com/EbookFoundation/free-programming-books){: target="_blank"} (Good! )
@@ -29,7 +31,7 @@ published: true
 
 ---
 
-##### Online Educational Websites
+### Online Educational Websites
 
 * [brilliant.org](https://brilliant.org/){: target="_blank"} (Pretty nice, tech you computer algorithms. Also have logic and math course. Recommended )
 * [coursera.org](https://coursera.org){: target="_blank"}
@@ -44,14 +46,14 @@ published: true
 
 ---
 
-##### Others Blogs
+### Others Blogs
 
 * [dev.to](https://dev.to/){: target="_blank"} (Mainly technology stuff)
 * [medium.com](https://medium.com/){: target="_blank"} (have lots of categories. Technology, Life Styles ….)
 
 ---
 
-##### Communities
+### Communities
 
 * [r/learnprogramming](https://www.reddit.com/r/learnprogramming/){: target="_blank"}
 * [r/coding](https://www.reddit.com/r/coding/){: target="_blank"} (there are a lots of good reddit group)
@@ -60,10 +62,16 @@ published: true
 
 ---
 
-##### Podcasts
+### Podcasts
 
 * [CodingBlocks Podcasts](https://www.codingblocks.net/category/podcast/){: target="_blank"} (Beginners Friendly)
 * [devchat.tv list of podcasts](https://devchat.tv/){: target="_blank"} (choose whatever you want)
 * [syntax](https://syntax.fm/){: target="_blank"}
 
 ---
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
