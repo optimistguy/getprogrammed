@@ -19,9 +19,7 @@ published: true
 * [Free Programming Books](https://github.com/EbookFoundation/free-programming-books){: target="_blank"} (Good! )
 * [Free Science Books](https://github.com/EbookFoundation/free-science-books){: target="_blank"}
 {: .lead}
-
-{: .lead} &lt;!–-break-–&gt;
-
+<!–-break-–>
 * [700+ Free Stuff on The Internet](https://medium.com/free-stuff/500-free-things-on-the-internet-to-start-your-new-year-11ae72266b66){: target="_blank"}
 * [List of the best free things online everyone can take advantage of](https://www.reddit.com/r/BestofSoftwares/comments/6084vh/list_of_the_best_free_things_online_everyone_can/){: target="_blank"}
 * [Web Development Study Resources by dragaCode](https://github.com/dargaCode/WebDevStudyResources){: target="_blank"}
