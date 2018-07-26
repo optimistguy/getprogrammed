@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GetProgrammed | Official Website</title>
+    <description>This website is coded and
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 26 Jul 2018 17:28:14 +0700</pubDate>
+    <lastBuildDate>Thu, 26 Jul 2018 17:28:14 +0700</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Resources for Beginner and Advanced</title>
+        <description>&lt;h6 id=&quot;note--there-are-a-lots-of-free-resources-and-i-bet-i-will-grew-over-times-i-am-not-even-uses-all-of-these-resources-so-just-pick-a-few-learn-it-go-with-it&quot;&gt;Note : There are a lots of free resources and I bet I will grew over times. I am not even uses all of these resources. So just pick a few. Learn it, go with it!&lt;/h6&gt;
+
+&lt;h5 id=&quot;other-lists-of-resources&quot;&gt;Other Lists Of Resources:&lt;/h5&gt;
+&lt;ul class=&quot;lead&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/sindresorhus/awesome&quot; target=&quot;_blank&quot;&gt;awesome&lt;/a&gt; (Really Good! )&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/EbookFoundation/free-programming-books&quot; target=&quot;_blank&quot;&gt;Free Programming Books&lt;/a&gt; (Good! )&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/EbookFoundation/free-science-books&quot; target=&quot;_blank&quot;&gt;Free Science Books&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;lt;!–-break-–&amp;gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/free-stuff/500-free-things-on-the-internet-to-start-your-new-year-11ae72266b66&quot; target=&quot;_blank&quot;&gt;700+ Free Stuff on The Internet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/BestofSoftwares/comments/6084vh/list_of_the_best_free_things_online_everyone_can/&quot; target=&quot;_blank&quot;&gt;List of the best free things online everyone can take advantage of&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/dargaCode/WebDevStudyResources&quot; target=&quot;_blank&quot;&gt;Web Development Study Resources by dragaCode&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pastebin.com/raw/gqJgqVU3&quot; target=&quot;_blank&quot;&gt;Nice list by @3way in our community&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://foo-dogsquared.github.io/posts/free-resource-list#articles&quot; target=&quot;_blank&quot;&gt;The blog post by @foo-dogsquared&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+
+&lt;h5 id=&quot;online-educational-websites&quot;&gt;Online Educational Websites&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://brilliant.org/&quot; target=&quot;_blank&quot;&gt;brilliant.org&lt;/a&gt; (Pretty nice, tech you computer algorithms. Also have logic and math course. Recommended )&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://coursera.org&quot; target=&quot;_blank&quot;&gt;coursera.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cs50.harvard.edu/&quot; target=&quot;_blank&quot;&gt;cs50.harvard.edu&lt;/a&gt; (Really Good!, tech you fundamental of computer science)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.codecademy.com/&quot; target=&quot;_blank&quot;&gt;www.codecademy.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.freecodecamp.org/&quot; target=&quot;_blank&quot;&gt;www.freecodecamp.org&lt;/a&gt; (Nice, they teach you a lot of technology, mainly for web.)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theodinproject.com/&quot; target=&quot;_blank&quot;&gt;www.theodinproject.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.udemy.com/&quot; target=&quot;_blank&quot;&gt;www.udemy.com&lt;/a&gt; (If the price of the course you want is more expensive then $12, wait until the price go down to $12 or lower)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.w3schools.com/&quot; target=&quot;_blank&quot;&gt;www.w3schools.com&lt;/a&gt; (Use it as a hand book.)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.pluralsight.com/&quot; target=&quot;_blank&quot;&gt;www.pluralsight.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.datacamp.com&quot; target=&quot;_blank&quot;&gt;www.datacamp.com&lt;/a&gt; (Nice if you doing Data Science)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+
+&lt;h5 id=&quot;others-blogs&quot;&gt;Others Blogs&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/&quot; target=&quot;_blank&quot;&gt;dev.to&lt;/a&gt; (Mainly technology stuff)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/&quot; target=&quot;_blank&quot;&gt;medium.com&lt;/a&gt; (have lots of categories. Technology, Life Styles ….)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+
+&lt;h5 id=&quot;communities&quot;&gt;Communities&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/learnprogramming/&quot; target=&quot;_blank&quot;&gt;r/learnprogramming&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/coding/&quot; target=&quot;_blank&quot;&gt;r/coding&lt;/a&gt; (there are a lots of good reddit group)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://forum.freecodecamp.org/&quot; target=&quot;_blank&quot;&gt;The freeCodeCamp forum&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com&quot; target=&quot;_blank&quot;&gt;Github also have a community&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+
+&lt;h5 id=&quot;podcasts&quot;&gt;Podcasts&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.codingblocks.net/category/podcast/&quot; target=&quot;_blank&quot;&gt;CodingBlocks Podcasts&lt;/a&gt; (Beginners Friendly)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devchat.tv/&quot; target=&quot;_blank&quot;&gt;devchat.tv list of podcasts&lt;/a&gt; (choose whatever you want)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://syntax.fm/&quot; target=&quot;_blank&quot;&gt;syntax&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+</description>
+        <pubDate>Sat, 26 Aug 2017 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/posts/welcome-to-dactl</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/welcome-to-dactl</guid>
+        
+        <category>resources</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
