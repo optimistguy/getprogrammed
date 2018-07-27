@@ -3,7 +3,7 @@ layout: post
 title:  "I now a TermGet Developer!"
 tags:
   - stories
-hero: https://source.unsplash.com/collection/430471/
+hero: https://source.unsplash.com/random
 overlay: green
 published: true
 ---
