@@ -9,7 +9,7 @@ published: true
 ---
 
 ## I now a TermGet developer!
----
+<hr>
 
 I am really happy to be a TermGet developer. TermGet is an terminal tool avalible for OSX, Windows and Linux! Easily install
 software for your machine! Just open your terminal or command line and happy installing. Not just software, it also good for
@@ -18,7 +18,8 @@ am a web developer for that project. Not cause I good about web development are 
 @Pizzalovingnerd allow me to be a web develope the website for the project. I am looking to be give the development team some
 ideas on what the new version should add. I also want to work on the TermGet software it self. I know lots of Python but mainly for data science (so that sucks). 
 
----
+
+<hr>
 **Well that a what I do, what I want to do,**
 Thanks for reading. and Pizza, plz read this :)).
 
