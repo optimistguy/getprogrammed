@@ -70,4 +70,5 @@ published: true
 ### Newsletter
 
 * [Fronted Focus](https://frontendfoc.us/){: target="_blank"}
-
+---
+###### More will comming soon
