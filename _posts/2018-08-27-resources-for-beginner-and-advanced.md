@@ -72,3 +72,4 @@ published: true
 * [Fronted Focus](https://frontendfoc.us/){: target="_blank"}
 ---
 ###### More will comming soon
+[Join my Coding community](https://discord.gg/BYT93CY){: target="_blank"}
