@@ -26,3 +26,4 @@ ideas on what the new version should add. I also want to work on the TermGet sof
 **Well that a what I do, what I want to do,**
 Thanks for reading. and Pizza, plz read this :)).
 
+[Join my Discord server](https://discord.gg/BYT93CY){: target="_blank"}
