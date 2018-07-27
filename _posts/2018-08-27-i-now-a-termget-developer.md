@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Resources for Beginner and Advanced"
+title:  "I now a TermGet Developer!"
 tags:
   - resources
 hero: https://source.unsplash.com/collection/430471/
