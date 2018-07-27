@@ -70,4 +70,4 @@ published: true
 ### Newsletter
 
 * [Fronted Focus](https://frontendfoc.us/){: target="_blank"}
-* &nbsp;
+
